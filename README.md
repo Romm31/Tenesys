@@ -14,10 +14,5 @@ Apa yang Kita Lakuin?
 ✔️ Digital Forensic – Belajar nyari jejak digital & investigasi keamanan
 ✔️ Cryptography – Bongkar & pahami sistem enkripsi
 
-Di sini kita lebih ke learning by doing. Sering latihan, riset bareng, dan berbagi ilmu biar skill makin naik. Kalau lo tertarik sama cybersecurity, suka tantangan, atau pengen gabung ke komunitas yang seru, Tenesys tempatnya!
-
-
----
-
-Kalau ada yang masih kurang atau mau ditambahin, tinggal bilang aja!
+Di sini kita lebih ke learning by doing. Sering latihan, riset bareng, dan berbagi ilmu biar skill makin naik. Kalau lo tertarik sama cybersecurity, suka tantangan, atau pengen gabung ke komunitas yang seru, Tenesys tempatnya!!!
 
