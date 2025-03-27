@@ -1,4 +1,4 @@
-# Tenesys
+ini# Tenesys
 
 Tenesys (Teknokrat Network System and Security)
 
@@ -8,15 +8,15 @@ Di sini, kita belajar dan ngoprek bareng tentang keamanan jaringan dan sistem, m
 
 Apa yang Kita Lakuin?
 
-✔️ Main CTF – Ngulik berbagai tantangan biar makin pro
+✔️ Main CTF – Ngulik berbagai tantangan biar makin pro🤫😹
 
-✔️ Ngoprek sistem & jaringan – Biar paham cara kerja & celah keamanannya
+✔️ Ngoprek sistem & jaringan – Biar paham cara kerja & celah keamanannya😹
 
-✔️ Analisis malware – Cari tahu gimana virus & exploit bekerja
+✔️ Analisis malware – Cari tahu gimana virus & exploit bekerja😬
 
-✔️ Digital Forensic – Belajar nyari jejak digital & investigasi keamanan
+✔️ Digital Forensic – Belajar nyari jejak digital & investigasi keamanan🧐
 
-✔️ Cryptography – Bongkar & pahami sistem enkripsi
+✔️ Cryptography – Bongkar & pahami sistem enkripsi🤐
 
-Di sini kita lebih ke learning by doing. Sering latihan, riset bareng, dan berbagi ilmu biar skill makin naik. Kalau lo tertarik sama cybersecurity, suka tantangan, atau pengen gabung ke komunitas yang seru, Tenesys tempatnya!!!
+Di sini kita lebih ke learning by doing. Sering latihan, riset bareng, dan berbagi ilmu biar skill makin naik. Kalau lo tertarik sama cybersecurity, suka tantangan, atau pengen gabung ke komunitas yang seru, Tenesys tempatnya!!!🗣️🗣️🔥🔥
 
