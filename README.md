@@ -1,4 +1,4 @@
-ini# Tenesys
+# Tenesys
 
 Tenesys (Teknokrat Network System and Security)
 
